@@ -1,6 +1,6 @@
 title: Socials and sports
 description: SDG's 3&10.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
