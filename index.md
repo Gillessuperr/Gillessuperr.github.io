@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page with a mindmap](./test.png).
+[Link to another page with a mindmap](./mindmap.png).
 
 
 # Our goal is to integrate students at Radboud!
