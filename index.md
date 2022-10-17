@@ -14,9 +14,9 @@ We plan to do this by introducing bi-weekly sport events to 18-26 year old stude
 Since the events can be held at university with the help of material which is already available over there, the costs of the activities can be held quite low. Moreover, due to the scale of the project, when students pay a small amount, a large sum of money will be available to help pay for larger projects. Therefore, the viability of the project is high. 
 
 In order to advertise the event, we  make use of the RU international office for advertising. When the events have been planned, they will be offered to the students living in a radius of around 30 km from the RU to make sure that it will also be easy for people to meet up next to their studies.
-
+```
 With this project, we hope to give students an extra opportunity to live their best student life by offering social and healthy opportunities to them!
-
+```
 ### SDG 3
 
 ![SDG3](https://socialsandsports.social/Goal03.png)
