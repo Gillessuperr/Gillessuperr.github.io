@@ -19,8 +19,8 @@ With this project, we hope to give students an extra opportunity to live their b
 
 ### SDG 3
 
-![SDG3](https://socialsandsports.social/sdgs3.png)
+![SDG3](https://socialsandsports.social/goal3.png)
 
 ### SDG 10
 
-![SDG10](https://socialsandsports.social/sdgs10.png)
+![SDG10](https://socialsandsports.social/goal10.png)
