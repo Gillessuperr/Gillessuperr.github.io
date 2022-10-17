@@ -7,8 +7,6 @@ layout: default
 
 # Our goal is to integrate students at Radboud!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 We noticed a division at our university between international and Dutch students. We propose an idea to integrate the students with the help of healthy activities! By this, we hope to improve student’s social lives. So, our proposal can be linked to SDG 3: Good health and wellbeing and SDG 10: Reduced inequalities. This idea is innovative since it combines the social opportunity with the chance to join sporty events for all students! We propose to first see how this idea works among students studying at the Faculty of Management and then extend the opportunity to all students!
 
 We plan to do this by introducing bi-weekly sport events to 18-26 year old students, but mainly the first and second years. Now, the only big sport event for all (new) students is held during the Orientation week. By offering bi-weekly sport events, we hope to make sure that students will get to know their teammates well enough to make friends, but also to focus on letting students have time for other activities as well. The sports activities can range from volleyball to swimming for example.
