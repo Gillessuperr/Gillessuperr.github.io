@@ -17,6 +17,7 @@ In order to advertise the event, we  make use of the RU international office for
 ```
 With this project, we hope to give students an extra opportunity to live their best student life by offering social and healthy opportunities to them!
 ```
+
 ### SDG 3
 
 ![SDG3](https://socialsandsports.social/Goal03.png)

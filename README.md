@@ -6,7 +6,7 @@
 
 ![Thumbnail of Architect](thumbnail.png)
 
-## Usage
+## Usages
 
 To use the Architect theme:
 
